@@ -1,16 +1,30 @@
-# MarkusSaw-MarkusSaw-MarkusSaw-sushi-delivery-system-dockerfile
 
-#  Sushi Delivery System
+Шаг 1: скачайте проект:
 
-Docker-based sushi delivery application
+git clone https://github.com/MarkusSaw/MarkusSaw-MarkusSaw-MarkusSaw-sushi-delivery-system-dockerfile.git
 
-## 🚀 Quick Start
+Шаг 2: Перейдите в папку проекта
 
-### 1. Install Docker
-[Download Docker Desktop](https://www.docker.com/products/docker-desktop/)
+cd MarkusSaw-MarkusSaw-MarkusSaw-sushi-delivery-system-dockerfile
 
-### 2. Clone and run:
-```bash
-git clone https://github.com/MarkusSaw/pushi-delivery-system.git
-cd pushi-delivery-system
+Шаг 3: Запустите систему
+
 docker-compose up -d --build
+
+
+
+Проверьте статус:
+
+docker-compose ps
+
+Остановка:
+
+docker-compose down
+
+Перезапуск:
+
+docker-compose restart
+
+Просмотр логов:
+
+docker-compose logs app
