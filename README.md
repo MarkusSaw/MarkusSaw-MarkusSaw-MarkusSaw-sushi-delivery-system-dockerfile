@@ -1,7 +1,7 @@
 
-Шаг 1: скачайте проект:
+Шаг 1: скачайте проект через паур шелл 
 
-git clone https://github.com/MarkusSaw/MarkusSaw-MarkusSaw-MarkusSaw-sushi-delivery-system-dockerfile.git
+"git clone https://github.com/MarkusSaw/MarkusSaw-MarkusSaw-MarkusSaw-sushi-delivery-system-dockerfile.git"
 
 Шаг 2: Перейдите в папку проекта
 
